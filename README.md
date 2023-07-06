@@ -1,1 +1,1 @@
-# aws-study-notes
+# study-notes
